@@ -124,4 +124,5 @@ sympy-plots-for-*.tex/
 # WinEdt
 *.bak
 *.sav
->>>>>>> 92a23776939c6ba5b50fefef18b3e59a76f4288c
+ 
+ build/*
